@@ -5,7 +5,7 @@ Version: 4.1.1
 Date: 2022-09-12
 Author: person("Bita", "Tarfiee", email = "b.tarfiee@gmail.com",
                   role = c("aut", "cre"))
-Maintainer: Mahnaz Mohammadzamani <b.tarfiee@gmail.com>
+Maintainer: Mahnaz Mohammadzamani <mahnaz.mzamani@gmail.com>
 Description: euclidean and dijkstra 
 License: GPL-2
 RoxygenNote: 7.2.1
